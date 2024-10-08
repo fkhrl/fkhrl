@@ -4,7 +4,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/fkhrl?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 
 ### Touch me:
-[<img align="left" alt="Fakhrul Islam Talukder | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
 [<img align="left" alt="Fakhrul Islam Talukder - fkhrl | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]<br />
 
 ### Languages and tools:
