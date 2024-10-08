@@ -1,45 +1,50 @@
-![](https://komarev.com/ghpvc/?username=fkhrl&label=PROFILE+VISITED++&style=plastic&color=blue)
-![](https://hit.yhype.me/github/profile?user_id=24929452)<br />
+<!-- Profile Visitor Count Badge -->
+![Profile Visited](https://komarev.com/ghpvc/?username=fkhrl&label=PROFILE+VISITED++&style=plastic&color=blue)
+![Profile Hits](https://hit.yhype.me/github/profile?user_id=24929452)
+
+<!-- Social Media Follow Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/fkhrl?logo=GitHub&style=for-the-badge)][github]
 [![Twitter Follow](https://img.shields.io/twitter/follow/fkhrl?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 
-### Touch me:
-[<img align="left" alt="Fakhrul Islam Talukder - fkhrl | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]<br />
+---
 
-### Languages and tools:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><br /><br />
+### 👋 About Me
+I'm **Fakhrul Islam Talukder**, a passionate Software Engineer at **Flevnex**. I specialize in creating high-performance applications, integrating payment gateways, and developing web services.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fkhrl&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 Currently working on: Laravel, API integrations, and ePaper solutions
+- 🌱 Learning: Advanced PHP, DevOps practices, and new frontend technologies
+- 💬 Ask me about: Laravel, Payment Gateways, APIs, and Cloud Solutions
+- 📫 Reach me: [Twitter](https://twitter.com/fkhrl), [Facebook](https://facebook.com/fkhrl)
 
-<img align="left" alt="Fakhrul Islam Talukder Github Stats" src="https://github-readme-stats.vercel.app/api?username=fkhrl&show_icons=true" />
+---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fkhrl)
+### 🚀 Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+### 📊 GitHub Stats:
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fkhrl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Fakhrul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fkhrl&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fkhrl&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
+
+---
+
+<!-- Links for Social Accounts -->
 [twitter]: https://twitter.com/fkhrl
 [github]: https://github.com/fkhrl
 [facebook]: https://facebook.com/fkhrl
-
-<!--
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fkhrl)
-
-### Hi there 👋
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt=“VSCode” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fkhrl)](https://github.com/anuraghazra/github-readme-stats)
--->
