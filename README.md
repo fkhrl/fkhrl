@@ -11,7 +11,7 @@
 ### 👋 About Me
 Hi, I'm **Fakhrul Islam Talukder**, a **Senior Software Engineer** at **Flevnex**, skilled in developing complex web applications and integrating advanced APIs.
 
-- 💻 I’m currently working on: **Laravel**, **API Integrations**, **ePaper Projects**
+- 💻 I’m currently working on: **Laravel**, **API Integrations**, **ePaper solutions**
 - 📚 I’m learning: DevOps practices, frontend technologies
 - 🤝 Open to collaborations on challenging and impactful projects
 - 📫 Reach me on: [Twitter](https://twitter.com/fkhrl), [Facebook](https://facebook.com/fkhrl), or [LinkedIn](https://www.linkedin.com/in/fkhrl/)
