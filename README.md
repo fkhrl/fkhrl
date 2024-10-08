@@ -9,12 +9,12 @@
 ---
 
 ### 👋 About Me
-Hi, I'm **Fakhrul Islam Talukder**, a Software Engineer at **Flevnex**, skilled in developing complex web applications and integrating advanced APIs.
+Hi, I'm **Fakhrul Islam Talukder**, a **Senior Software Engineer** at **Flevnex**, skilled in developing complex web applications and integrating advanced APIs.
 
 - 💻 I’m currently working on: **Laravel**, **API Integrations**, **ePaper Projects**
 - 📚 I’m learning: DevOps practices, frontend technologies
 - 🤝 Open to collaborations on challenging and impactful projects
-- 📫 Reach me on: [Twitter](https://twitter.com/fkhrl) or [Facebook](https://facebook.com/fkhrl)
+- 📫 Reach me on: [Twitter](https://twitter.com/fkhrl), [Facebook](https://facebook.com/fkhrl), or [LinkedIn](https://www.linkedin.com/in/fkhrl/)
 
 ---
 
@@ -26,6 +26,11 @@ Hi, I'm **Fakhrul Islam Talukder**, a Software Engineer at **Flevnex**, skilled 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- Added Vue.js, Next.js, and NestJS -->
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ---
 
@@ -40,6 +45,7 @@ Hi, I'm **Fakhrul Islam Talukder**, a Software Engineer at **Flevnex**, skilled 
 ### 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 ---
 
@@ -47,3 +53,4 @@ Hi, I'm **Fakhrul Islam Talukder**, a Software Engineer at **Flevnex**, skilled 
 [twitter]: https://twitter.com/fkhrl
 [github]: https://github.com/fkhrl
 [facebook]: https://facebook.com/fkhrl
+[linkedin]: https://www.linkedin.com/in/fkhrl/
